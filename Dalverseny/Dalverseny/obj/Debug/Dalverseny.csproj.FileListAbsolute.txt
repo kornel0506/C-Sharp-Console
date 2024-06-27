@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dalverseny\Dalverseny\bin\Debug\Dalverseny.exe.config
+C:\Users\user\source\repos\Dalverseny\Dalverseny\bin\Debug\Dalverseny.exe
+C:\Users\user\source\repos\Dalverseny\Dalverseny\bin\Debug\Dalverseny.pdb
+C:\Users\user\source\repos\Dalverseny\Dalverseny\obj\Debug\Dalverseny.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Dalverseny\Dalverseny\obj\Debug\Dalverseny.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dalverseny\Dalverseny\obj\Debug\Dalverseny.exe
+C:\Users\user\source\repos\Dalverseny\Dalverseny\obj\Debug\Dalverseny.pdb
